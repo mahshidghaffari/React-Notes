@@ -1,5 +1,0 @@
-### INSTALLATION ###
-- before installation make sure that node.js is in the latest version
-=> npm create-react-app my-app
-=> npm start
-*** Reference https://reactjs.org/docs/create-a-new-react-app.html
